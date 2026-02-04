@@ -1,3 +1,4 @@
-title: "Trang web của tôi"
-description: "Website thử nghiệm với Jekyll"
-theme: jekyll-theme-cayman
+title: "Trang cá nhân"
+description: "Chia sẻ kiến thức và dự án"
+theme: jekyll-theme-slate
+author: "Dinh"
